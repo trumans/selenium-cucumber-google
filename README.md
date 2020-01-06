@@ -1,5 +1,5 @@
 To run from command line:
-1. navigate to local project directory
+1. navigate to the local project directory
 2. in terminal window: 
 ```
 cucumber BROWSER=browser
